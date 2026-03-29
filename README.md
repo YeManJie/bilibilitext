@@ -14,7 +14,7 @@
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/yourname/bili2text.git
+git clone https://github.com/YeManJie/bilibilitext.git
 cd bili2text
 
 # 2. 运行安装脚本
